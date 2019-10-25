@@ -23,26 +23,25 @@
 16-->/Users/suryadarma/Documents/AndroidStudioProjects/Composample/app/src/main/AndroidManifest.xml:8:9-41
 17        android:supportsRtl="true"
 17-->/Users/suryadarma/Documents/AndroidStudioProjects/Composample/app/src/main/AndroidManifest.xml:9:9-35
-18        android:testOnly="true"
-19        android:theme="@style/AppTheme" >
-19-->/Users/suryadarma/Documents/AndroidStudioProjects/Composample/app/src/main/AndroidManifest.xml:10:9-40
-20        <activity
-20-->/Users/suryadarma/Documents/AndroidStudioProjects/Composample/app/src/main/AndroidManifest.xml:11:9-19:20
-21            android:name="io.github.sinistance.composample.MainActivity"
-21-->/Users/suryadarma/Documents/AndroidStudioProjects/Composample/app/src/main/AndroidManifest.xml:12:13-41
-22            android:label="@string/app_name" >
-22-->/Users/suryadarma/Documents/AndroidStudioProjects/Composample/app/src/main/AndroidManifest.xml:13:13-45
-23            <intent-filter>
-23-->/Users/suryadarma/Documents/AndroidStudioProjects/Composample/app/src/main/AndroidManifest.xml:14:13-18:29
-24                <action android:name="android.intent.action.MAIN" />
-24-->/Users/suryadarma/Documents/AndroidStudioProjects/Composample/app/src/main/AndroidManifest.xml:15:17-69
-24-->/Users/suryadarma/Documents/AndroidStudioProjects/Composample/app/src/main/AndroidManifest.xml:15:25-66
-25
-26                <category android:name="android.intent.category.LAUNCHER" />
-26-->/Users/suryadarma/Documents/AndroidStudioProjects/Composample/app/src/main/AndroidManifest.xml:17:17-77
-26-->/Users/suryadarma/Documents/AndroidStudioProjects/Composample/app/src/main/AndroidManifest.xml:17:27-74
-27            </intent-filter>
-28        </activity>
-29    </application>
-30
-31</manifest>
+18        android:theme="@style/AppTheme" >
+18-->/Users/suryadarma/Documents/AndroidStudioProjects/Composample/app/src/main/AndroidManifest.xml:10:9-40
+19        <activity
+19-->/Users/suryadarma/Documents/AndroidStudioProjects/Composample/app/src/main/AndroidManifest.xml:11:9-19:20
+20            android:name="io.github.sinistance.composample.MainActivity"
+20-->/Users/suryadarma/Documents/AndroidStudioProjects/Composample/app/src/main/AndroidManifest.xml:12:13-41
+21            android:label="@string/app_name" >
+21-->/Users/suryadarma/Documents/AndroidStudioProjects/Composample/app/src/main/AndroidManifest.xml:13:13-45
+22            <intent-filter>
+22-->/Users/suryadarma/Documents/AndroidStudioProjects/Composample/app/src/main/AndroidManifest.xml:14:13-18:29
+23                <action android:name="android.intent.action.MAIN" />
+23-->/Users/suryadarma/Documents/AndroidStudioProjects/Composample/app/src/main/AndroidManifest.xml:15:17-69
+23-->/Users/suryadarma/Documents/AndroidStudioProjects/Composample/app/src/main/AndroidManifest.xml:15:25-66
+24
+25                <category android:name="android.intent.category.LAUNCHER" />
+25-->/Users/suryadarma/Documents/AndroidStudioProjects/Composample/app/src/main/AndroidManifest.xml:17:17-77
+25-->/Users/suryadarma/Documents/AndroidStudioProjects/Composample/app/src/main/AndroidManifest.xml:17:27-74
+26            </intent-filter>
+27        </activity>
+28    </application>
+29
+30</manifest>
